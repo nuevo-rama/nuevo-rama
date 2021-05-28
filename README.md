@@ -1,4 +1,12 @@
-### Hola soy Ramiro y aquí están mis repos 👋
+### 👋 Hola soy Ramiro y aquí están mis repos 
+
+- ⚡ Me gusta innovar y ser creativo.
+- ⚡ Me apasiona poder desarrollar aplicaciones que tengan un impacto positivo en los usuarios.
+- ⚡ Las tecnologías con las que actualmente trabajo son principalmente Node y React
+
+- 🔭 Actualmente estoy desarrollando aplicaciones de Front-End con React - Redux para sitios web interactivos, en donde el usuario puede interactuar de diversas maneras con los productos, como por ejemplo intervenir su diseño.
+
+
 
 
 <!--

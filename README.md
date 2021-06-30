@@ -10,13 +10,13 @@
 
 ### Programming Languages
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuevo-rama&layout=compact&langs_count=8&theme=algolia" height="207">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuevo-rama&layout=compact&langs_count=8&theme=react" height="207">
 
 ---
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nuevo-rama&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=nuevo-rama&&show_icons=true&theme=react" height="150">
 
 <!--
 **nuevo-rama/nuevo-rama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

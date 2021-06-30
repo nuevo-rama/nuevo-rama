@@ -6,8 +6,7 @@
 
 - 🔭 Actualmente estoy desarrollando aplicaciones de Front-End con React - Redux para sitios web interactivos, en donde el usuario puede interactuar de diversas maneras con los productos, como por ejemplo intervenir su diseño.
 
-
-
+![programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuevo-rama&layout=compact&langs_count=8&theme=algolia)
 
 <!--
 **nuevo-rama/nuevo-rama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

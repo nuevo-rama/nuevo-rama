@@ -4,6 +4,7 @@
 |---|:---|:---|
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:open_book:|Actualmente estoy aprendiendo Linux Avanzado y Python Avanzado |I’m currently learning Linux Advanced and Python Advanced|
+|:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
 ## Skills
 

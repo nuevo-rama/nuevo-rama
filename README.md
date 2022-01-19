@@ -5,14 +5,16 @@
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:open_book:|Actualmente estoy aprendiendo Linux Avanzado y Python Avanzado |I’m currently learning Linux Advanced and Python Advanced|
 
-### Skills
+## Skills
 
-|Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|Devops|Framework|Design|Software|
+|Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|Design|Software|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|Figma|Postman|
 |Javascript|Redux|Express|SQLite|Sequelize|Bash|Symfony|CorelDraw|Git|
 |PHP|CSS3|||||Laravel|Rhinoceros|Trello|
 ||HTML5|||||Flask||VS Code|
+
+
 
 
 

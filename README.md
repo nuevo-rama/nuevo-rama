@@ -1,7 +1,9 @@
-#### Hola soy Ramiro.
+# :man_beard: Hola soy Ramiro!
 
-- Vivo en la Ciudad de Buenos Aires, Argentina
-- Soy Desarrollador Full Stack.
-- Siempre estoy aprendiendo cosas nuevas en cursos, tutoriales, manuales, etc.
+### :computer: Soy Desarrollador Full Stack.
+### :argentina: Vivo en la Ciudad de Buenos Aires, Argentina 
+### :open_book: Siempre estoy aprendiendo cosas nuevas en cursos, tutoriales, manuales, etc.
+
+
 
 

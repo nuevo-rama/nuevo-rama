@@ -13,7 +13,8 @@
 |Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|Figma|Postman|
 |Javascript|Redux|Express|SQLite|Sequelize|Bash|Symfony|CorelDraw|Git|
 |PHP|CSS3|||||Laravel|Rhinoceros|Trello|
-||HTML5|||||Flask||VS Code|
+|Bash|HTML5|||||Flask||VS Code|
+||Bootstrap||||||||
 
 
 

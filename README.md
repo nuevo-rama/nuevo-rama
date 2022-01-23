@@ -1,4 +1,4 @@
-## :man_beard: Hola soy Ramiro!
+## :man_beard: Hola, soy Ramiro! - Hi, I'm Ramiro!
 
 |:computer:|Soy Desarrollador Full Stack|I'm a Full Stack Developer|
 |---|:---|:---|

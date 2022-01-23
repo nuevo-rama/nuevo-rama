@@ -1,4 +1,8 @@
 ## :man_beard: Hola, soy Ramiro! - Hi, I'm Ramiro!
+- Mi objetivo es poder contribuir en la transformación digital participando de
+proyectos dinámicos y construyendo sistemas escalables y mantenibles
+utilizando tecnologías de vanguardia.
+- My goal is to be able to contribute to the digital transformation by participating in dynamic projects and building scalable and maintainable systems using cutting-edge technologies.
 
 |:computer:|Soy Desarrollador Full Stack|I'm a Full Stack Developer|
 |---|:---|:---|

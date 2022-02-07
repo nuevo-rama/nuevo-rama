@@ -18,7 +18,7 @@ utilizando tecnologías de vanguardia.
 |Javascript|Redux|Express|SQLite|Sequelize|Bash|Symfony|CorelDraw|Git|
 |PHP|CSS3|||||Laravel|Rhinoceros|Trello|
 |Bash|HTML5|||||Flask||VS Code|
-||Bootstrap||||||||
+||Bootstrap|||||Express|||
 
 
 

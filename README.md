@@ -19,6 +19,7 @@ utilizando tecnologías de vanguardia.
 |PHP|CSS3|||||Laravel|Rhinoceros|Trello|
 |Bash|HTML5|||||Flask||VS Code|
 ||Bootstrap|||||Express|||
+||Tailwind||||||||
 
 
 

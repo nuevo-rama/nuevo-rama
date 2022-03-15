@@ -7,6 +7,7 @@ utilizando tecnologías de vanguardia.
 |:computer:|Soy Desarrollador Full Stack|I'm a Full Stack Developer|
 |---|:---|:---|
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
+|---|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
 |:open_book:|Actualmente estoy aprendiendo Linux Avanzado y Python Avanzado |I’m currently learning Linux Advanced and Python Advanced|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 

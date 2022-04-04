@@ -21,6 +21,7 @@ utilizando tecnologías de vanguardia.
 |Bash|HTML5|||||Flask||VS Code|
 ||Bootstrap|||||Express|||
 ||Tailwind||||||||
+||React Native||||||||
 
 
 

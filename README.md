@@ -18,11 +18,11 @@ utilizando tecnologías de vanguardia.
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|NumPy|Figma|Postman|
 |Javascript|Redux|Express|SQLite|Sequelize|Bash|Symfony|Pandas|CorelDraw|Git|
-|PHP|CSS3|||||Laravel|Rhinoceros|Trello|
-|Bash|HTML5|||||Flask||VS Code|
-||Bootstrap|||||Express|||
-||Tailwind||||||||
-||React Native||||||||
+|PHP|CSS3|||||Laravel||Rhinoceros|Trello|
+|Bash|HTML5|||||Flask|||VS Code|
+||Bootstrap|||||Express||||
+||Tailwind|||||||||
+||React Native|||||||||
 
 
 

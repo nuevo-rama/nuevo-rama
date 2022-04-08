@@ -9,7 +9,7 @@ utilizando tecnologías de vanguardia.
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:man_technologist:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
 |:open_book:|Actualmente estoy aprendiendo Linux Avanzado|I’m currently learning Linux Advanced|
-|:open_book:|Actualmente estoy aprendiendo Data Science con Python NumPy y Pandas|I’m currently learning Data Science with Python NumPy and Pandas|
+|:chart_with_upwards_trend:|Actualmente estoy aprendiendo Data Science con Python NumPy y Pandas|I’m currently learning Data Science with Python NumPy and Pandas|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
 ## Skills

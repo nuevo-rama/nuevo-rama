@@ -13,6 +13,7 @@ utilizando tecnologías de vanguardia.
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
 ## Skills
+<div style="font-size:2">
 
 |Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|Data Science|Design|Software|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -24,6 +25,7 @@ utilizando tecnologías de vanguardia.
 ||Tailwind|||||||||
 ||React Native|||||||||
 
+</div>
 
 
 

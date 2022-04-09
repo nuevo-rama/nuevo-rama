@@ -21,11 +21,11 @@ utilizando tecnologías de vanguardia.
 |PHP|CSS3|||||Express|Rhinoceros|Trello|
 |Bash|HTML5|||||Symfony||VS Code|
 ||Bootstrap||||||||
+||||||||
+|**Data Science**|**Mobile**|**Design**|**Software**|
+|NumPy|React-Native|Figma|Postman|||||
+|Pandas||CorelDraw|Git|||||
 
-|Data Science|Mobile|Design|Software|
-|:---|:---|:---|:---|
-|NumPy|React-Native|Figma|Postman|
-|Pandas||CorelDraw|Git|
 
 
 

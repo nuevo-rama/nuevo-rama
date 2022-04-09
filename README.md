@@ -14,13 +14,20 @@ utilizando tecnologías de vanguardia.
 
 ## Skills
 
-|Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|Design|Software|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|Figma|Postman|
-|Javascript|React-Native|Express|SQLite|Sequelize|Bash|Flask|CorelDraw|Git|
+|Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|
+|:---|:---|:---|:---|:---|:---|:---|
+|Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|
+|Javascript|React-Native|Express|SQLite|Sequelize|Bash|Flask|
 |PHP|CSS3|||||Express|Rhinoceros|Trello|
 |Bash|HTML5|||||Symfony||VS Code|
 ||Bootstrap||||||||
+
+|Data Science|Mobile|Design|Software|
+|:---|:---|:---|:---|
+|NumPy|React-Native|Figma|Postman|
+|Pandas||CorelDraw|Git|
+
+
 
 
 

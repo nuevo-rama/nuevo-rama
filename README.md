@@ -25,7 +25,7 @@ utilizando tecnologías de vanguardia.
 |**Data Science**|**Mobile**|**Design**|**Software**|
 |NumPy|React-Native|Figma|Postman|||||
 |Pandas||CorelDraw|Git|||||
-|Matplotlib||||||||
+|Matplotlib|||VS Code|||||
 |Apache Hadoop||||||||
 
 

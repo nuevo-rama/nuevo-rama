@@ -8,7 +8,7 @@ utilizando tecnologías de vanguardia.
 |---|:---|:---|
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:man_technologist:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
-|:open_book:|Actualmente estoy aprendiendo Linux Avanzado|I’m currently learning Linux Advanced|
+|:open_book:|Actualmente estoy aprendiendo Google Tag Manager|I’m currently learning Google Tag Manager|
 |:chart_with_upwards_trend:|Actualmente estoy aprendiendo Data Science con Python NumPy y Pandas|I’m currently learning Data Science with Python NumPy and Pandas|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
@@ -22,11 +22,11 @@ utilizando tecnologías de vanguardia.
 |Bash|HTML5|||||Symfony||VS Code|
 ||Bootstrap||||||||
 ||||||||
-|**Data Science**|**Mobile**|**Design**|**Software**|
-|NumPy|React-Native|Figma|Postman|||||
-|Pandas||CorelDraw 2D|Git|||||
-|Matplotlib||Rhinoceros 3D|VS Code|||||
-|Apache Hadoop||||||||
+|**Data Science**|**Data Analitycs**|**Mobile**|**Design**|**Software**|
+|NumPy|Google Tag Manager|React-Native|Figma|Postman|||||
+|Pandas|||CorelDraw 2D|Git|||||
+|Matplotlib|||Rhinoceros 3D|VS Code|||||
+|Apache Hadoop|||||||||
 
 
 

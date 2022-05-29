@@ -22,7 +22,7 @@ utilizando tecnologías de vanguardia.
 |Bash|HTML5|||||Symfony||VS Code|
 ||Bootstrap||||||||
 ||||||||
-|**Data Science**|**Data Analitycs**|**Mobile**|**Design**|**Software**|
+|**Data Science**|**Data Analytics**|**Mobile**|**Design**|**Software**|
 |NumPy|Google Tag Manager|React-Native|Figma|Postman|||||
 |Pandas|||CorelDraw 2D|Git|||||
 |Matplotlib|||Rhinoceros 3D|VS Code|||||

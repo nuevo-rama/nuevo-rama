@@ -16,16 +16,16 @@ utilizando tecnologías de vanguardia.
 
 |Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|
 |:---|:---|:---|:---|:---|:---|:---|
-|Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|
-|Javascript|React-Native|Express|SQLite|Sequelize|Bash|Flask|
-|PHP|CSS3|||||Express|Rhinoceros|Trello|
-|Bash|HTML5|||||Symfony||VS Code|
-||Bootstrap||||||||
+|Python|React|Node.js|MySQL|SQLAlchemy|Docker|Flask|
+|Javascript|CSS3|Express||Sequelize|Bash|Express|
+|PHP|HTML5||||||Rhinoceros|Trello|
+|Bash|Bootstrap|||||||VCSS3S Code|
+||||||||||
 ||||||||
-|**Data Science**|**Data Analytics**|**Mobile**|**Design**|**Software**|
-|NumPy|Google Tag Manager|React-Native|Figma|Postman|||||
-|Pandas|||CorelDraw 2D|Git|||||
-|Matplotlib|||Rhinoceros 3D|VS Code|||||
+|**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|
+|NumPy|Google Tag Manager|Figma|Postman||||||
+|Pandas||CorelDraw 2D|Git||||||
+|Matplotlib||Rhinoceros 3D|VS Code||||||
 |Apache Hadoop|||||||||
 
 

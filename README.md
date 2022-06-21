@@ -8,7 +8,7 @@ utilizando tecnologías de vanguardia.
 |---|:---|:---|
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:man_technologist:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
-|:open_book:|Actualmente estoy aprendiendo Google Tag Manager|I’m currently learning Google Tag Manager|
+|:open_book:|Actualmente estoy desarrolando en Django|I’m currently developing with Django|
 |:chart_with_upwards_trend:|Actualmente estoy aprendiendo Data Science con Python NumPy y Pandas|I’m currently learning Data Science with Python NumPy and Pandas|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
@@ -16,17 +16,17 @@ utilizando tecnologías de vanguardia.
 
 |Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|
 |:---|:---|:---|:---|:---|:---|:---|
-|Python|React|Node.js|MySQL|SQLAlchemy|Docker|Flask|
-|Javascript|CSS3|Express||Sequelize|Bash|Express|
-|PHP|HTML5||||||Rhinoceros|Trello|
-|Bash|Bootstrap|||||||VCSS3S Code|
-||||||||||
+|Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|
+|Javascript|CSS3|Express||Sequelize|Bash|Flask|
+|PHP|HTML5|||||Express|
+|Bash|Bootstrap||||||
+||||||||
 ||||||||
 |**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|
-|NumPy|Google Tag Manager|Figma|Postman||||||
-|Pandas||CorelDraw 2D|Git||||||
-|Matplotlib||Rhinoceros 3D|VS Code||||||
-|Apache Hadoop|||||||||
+|NumPy|Google Tag Manager|Figma|Postman||||
+|Pandas||CorelDraw 2D|Git||||
+|Matplotlib||Rhinoceros 3D|VS Code||||
+|Apache Hadoop|||||||
 
 
 

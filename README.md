@@ -18,7 +18,7 @@ utilizando tecnologías de vanguardia.
 |Programming Languages|FrontEnd Dev|BackEnd Dev|Database|ORM|DevOps|Framework|
 |:---|:---|:---|:---|:---|:---|:---|
 |Python|React|Node.js|MySQL|SQLAlchemy|Docker|Django|
-|Javascript|CSS3|Express||Sequelize|Bash|Flask|
+|Javascript|CSS3|Express|PostgreSQL|Sequelize|Bash|Flask|
 |PHP|HTML5|||||Express|
 |Bash|Bootstrap||||||
 ||||||||

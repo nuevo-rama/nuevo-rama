@@ -22,7 +22,7 @@ utilizando tecnologías de vanguardia.
 ||||||||
 ||||||||
 |**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|
-|NumPy|Google Tag Manager|Figma|Postman|React Native||
+|NumPy|Google Tag Manager|Figma|Postman|React Native|PyTest|
 |Pandas||CorelDraw 2D|Git|||
 |Matplotlib||Rhinoceros 3D|VS Code|||
 |Apache Hadoop||||||

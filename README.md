@@ -9,6 +9,7 @@ utilizando tecnologías de vanguardia.
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:man_technologist:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
 |:open_book:|Actualmente estoy desarrollando en PHP / Python|I’m currently developing with PHP / Python|
+|:open_book:|Actualmente estoy desarrollando con FastAPI y FLASK|I’m currently developing with FastAPI and FLASK|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
 ## Skills
@@ -17,8 +18,8 @@ utilizando tecnologías de vanguardia.
 |:---|:---|:---|:---|:---|:---|:---|
 |Python|React|Node.js|MySQL|SQLAlchemy|AWS|Django|
 |Javascript|CSS3|Express|PostgreSQL|Sequelize|Docker|Flask|
-|PHP|HTML5||||Bash|Express|
-|Bash|Bootstrap||||||
+|PHP|HTML5||||Bash|FastAPI|
+|Bash|Bootstrap|||||Express|
 ||||||||
 ||||||||
 |**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|

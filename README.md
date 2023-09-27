@@ -1,4 +1,4 @@
-## :man_beard: Hola, soy Ramiro! - Hi, I'm Ramiro!
+## :bearded_person: Hola, soy Ramiro! - Hi, I'm Ramiro!
 - Mi objetivo es poder contribuir en la transformación digital participando de
 proyectos dinámicos y construyendo sistemas escalables y mantenibles
 utilizando tecnologías de vanguardia.
@@ -7,10 +7,10 @@ utilizando tecnologías de vanguardia.
 |:computer:|Soy Desarrollador Full Stack|I'm a Full Stack Developer|
 |---|:---|:---|
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
-|:man_technologist:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
+|:man_student:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
 |:man_technologist:|Siempre estudiando!|Always learning!|
-|:open_book:|Actualmente estoy desarrollando en PHP / Python|I’m currently developing with PHP / Python|
-|:open_book:|Actualmente estoy desarrollando con FastAPI y Flask|I’m currently developing with FastAPI and Flask|
+|:computer:|Actualmente estoy desarrollando en PHP / Python|I’m currently developing with PHP / Python|
+|:computer:|Actualmente estoy desarrollando con FastAPI y Flask|I’m currently developing with FastAPI and Flask|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|
 
 ## Skills

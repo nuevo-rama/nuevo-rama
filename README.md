@@ -8,6 +8,7 @@ utilizando tecnologías de vanguardia.
 |---|:---|:---|
 |:argentina:|Vivo en la Ciudad de Buenos Aires, Argentina|I live in Buenos Aires City, Argentina|
 |:man_technologist:|Trabajando Full-Time en Desarrollo|Working Full-Time in Development|
+|:man_technologist:|Siempre estudiando!|Always learning!|
 |:open_book:|Actualmente estoy desarrollando en PHP / Python|I’m currently developing with PHP / Python|
 |:open_book:|Actualmente estoy desarrollando con FastAPI y Flask|I’m currently developing with FastAPI and Flask|
 |:earth_americas:|Idiomas: Español (nativo) - Inglés (profesional) - Noruego (básico)|My languages: Spanish (native), English (professional), Norwegian (basic)|

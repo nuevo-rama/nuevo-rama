@@ -23,9 +23,9 @@ utilizando tecnologías de vanguardia.
 |Bash|Bootstrap|||||Express|
 ||||||||
 ||||||||
-|**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|
-|NumPy|Google Tag Manager|Figma|Postman|React Native|PyTest|
-|Pandas||CorelDraw 2D|Git||Newman|
+|**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|**API Tools**|
+|NumPy|Google Tag Manager|Figma|Postman|React Native|PyTest|Swagger|
+|Pandas||CorelDraw 2D|Git||Newman|OpenAPI|
 |Matplotlib||Rhinoceros 3D|VS Code|||
 |Apache Hadoop||||||
 

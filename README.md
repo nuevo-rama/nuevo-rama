@@ -24,9 +24,9 @@ utilizando tecnologías de vanguardia.
 ||||||||
 ||||||||
 |**Data Science**|**Data Analytics**|**Design**|**Software**|**Mobile**|**Testing**|**API Tools**|
-|NumPy|Google Tag Manager|Figma|Postman|React Native|PyTest|Swagger|
+|NumPy|Google Tag Manager|Figma||React Native|PyTest|Swagger|
 |Pandas||CorelDraw 2D|Git||Newman|OpenAPI|
-|Matplotlib||Rhinoceros 3D|VS Code|||
+|Matplotlib||Rhinoceros 3D|VS Code|||Postman|
 |Apache Hadoop||||||
 
 
